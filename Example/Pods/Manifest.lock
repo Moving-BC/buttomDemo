@@ -1,0 +1,16 @@
+PODS:
+  - buttomDemo (0.1.0)
+
+DEPENDENCIES:
+  - buttomDemo (from `../`)
+
+EXTERNAL SOURCES:
+  buttomDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  buttomDemo: 93414c487f2efd04238143cbb677d1df4861d30b
+
+PODFILE CHECKSUM: 2b4ef17967527a0ee925fa39799f085adb260cc0
+
+COCOAPODS: 1.9.3
